@@ -15,3 +15,5 @@ services:
       - BOT_TOKEN=${BOT_TOKEN}
       
       - MDISK_TOKEN=${MDISK_TOKEN}
+      
+      - CUSTOM_FOOTER=${CUSTOM_FOOTER}
