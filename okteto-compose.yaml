@@ -13,3 +13,5 @@ services:
       - API_HASH=${API_HASH}
 
       - BOT_TOKEN=${BOT_TOKEN}
+      
+      - MDISK_TOKEN=${MDISK_TOKEN}
